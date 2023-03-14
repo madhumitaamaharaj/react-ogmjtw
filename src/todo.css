@@ -1,0 +1,10 @@
+.wrapper{
+background-color: bisque;
+  width: fit-content;
+  margin: auto;
+  display: flex;
+  gap: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 0.4px solid;
+}
